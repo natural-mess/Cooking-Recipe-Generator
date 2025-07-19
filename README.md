@@ -5,7 +5,11 @@ A web application that generates cooking recipes based on ingredients you provid
 ## Features
 
 - Search for recipes by ingredient
+![alt text](demo/WithIngredient.gif)
+  
 - Get a random recipe suggestion
+![alt text](demo/NoIngredient.gif)
+  
 - View recipe details, including ingredients, instructions, and a YouTube video
 
 ## Technologies Used
