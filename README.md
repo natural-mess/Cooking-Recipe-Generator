@@ -25,8 +25,8 @@ CookingRecipeGenerator/
 │ ├── img/ 
 │ │ ├── home_bg.png
 │ │ └── search-icon.svg
-│ ├── styles/ 
-│ │ └── main.css 
+│ └── styles/ 
+│   └── main.css 
 │
 ├── views/ 
 │ ├── partials/ 
